@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97951b13-a1c0-4ac1-96c5-686bbe9b4785" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/(root)/error.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/global-error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/books/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/books/[id]/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/books/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/api/db.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/about/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +55,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abdul\OneDrive\Desktop\University\Projects\nextjstutorial\app" />
+      <recent name="C:\Users\abdul\OneDrive\Desktop\University\Projects\nextjstutorial" />
       <recent name="C:\Users\abdul\OneDrive\Desktop\University\Projects\nextjstutorial\app\(dashboard)" />
       <recent name="C:\Users\abdul\OneDrive\Desktop\University\Projects\nextjstutorial\app\(root)" />
-      <recent name="C:\Users\abdul\OneDrive\Desktop\University\Projects\nextjstutorial\app" />
       <recent name="C:\Users\abdul\OneDrive\Desktop\University\Projects\nextjstutorial\app\dashboard" />
     </key>
   </component>
@@ -90,7 +93,7 @@
       <updated>1747143193981</updated>
       <workItem from="1747143195403" duration="704000" />
       <workItem from="1747144005591" duration="3578000" />
-      <workItem from="1747147841496" duration="2083000" />
+      <workItem from="1747147841496" duration="5790000" />
     </task>
     <servers />
   </component>
